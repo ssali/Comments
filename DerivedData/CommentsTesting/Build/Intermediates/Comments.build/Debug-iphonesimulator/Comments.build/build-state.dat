@@ -1,0 +1,349 @@
+TComments
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/Info.plist Comments/Comments-Info.plist
+cProcessPCH /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/PrecompiledHeaders/Comments-Prefix-aayqwmhzkqbojkfhdctxfyibxqme/Comments-Prefix.pch.pth Comments/Comments-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Objects-normal/i386/AppDelegate.o /Users/shreyassali/Projects/CommentsLearning/Comments/Comments/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Objects-normal/i386/main.o /Users/shreyassali/Projects/CommentsLearning/Comments/Comments/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Objects-normal/i386/ViewController.o /Users/shreyassali/Projects/CommentsLearning/Comments/Comments/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/Comments normal i386
+cGenerateDSYMFile /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app.dSYM /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/Comments
+cCopyStringsFile /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/en.lproj/InfoPlist.strings Comments/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/shreyassali/Projects/CommentsLearning/Comments/Comments/en.lproj/MainStoryboard.storyboard
+cTouch /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004F2949F90000000000000110
+t1328105977
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F1CC0000000000245480
+t1316155852
+s2380928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F2960000000000353830
+t1316156054
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7806AB00000000008F7390
+t1316488875
+s9401232
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/usr/lib/libxml2.2.dylib
+c000000004E72F1B5000000000011FDD0
+t1316155829
+s1179088
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/AppDelegate.h
+c000000004F5003D4000000000000011C
+t1330643924
+s284
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/AppDelegate.m
+c000000004F5003D40000000000000844
+t1330643924
+s2116
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/Comments-Prefix.pch
+c000000004F5003D4000000000000013F
+t1330643924
+s319
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/Header.h
+c000000004F55350600000000000001B5
+t1330984198
+s437
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/ViewController.h
+c000000004F58DC82000000000000038F
+t1331223682
+s911
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/ViewController.m
+c000000004F624A20000000000000196C
+t1331841568
+s6508
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/en.lproj/InfoPlist.strings
+c000000004F5003D4000000000000002D
+t1330643924
+s45
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/en.lproj/MainStoryboard.storyboard
+c000000004F60E7C900000000000020E0
+t1331750857
+s8416
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/main.m
+c000000004F5003D40000000000000157
+t1330643924
+s343
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Objects-normal/i386/AppDelegate.o
+t1331334246
+s49512
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Objects-normal/i386/Comments.LinkFileList
+c000000004F5A8C640000000000000230
+t1331334244
+s560
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Objects-normal/i386/ViewController.o
+t1331841574
+s71676
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Objects-normal/i386/main.o
+t1331334246
+s2764
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/PrecompiledHeaders/Comments-Prefix-aayqwmhzkqbojkfhdctxfyibxqme/Comments-Prefix.pch.pth
+t1331334246
+s3915108
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphoneos/libcsplib.a
+c000000004F624E8C00000000000E1AE8
+t1331842700
+s924392
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/AuthCredentials.h
+c000000004F5A8C5E00000000000006D4
+t1331334238
+s1748
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/BasicAuthCredentials.h
+c000000004F5A8C5E0000000000000511
+t1331334238
+s1297
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comment.h
+c000000004F5A8C5E0000000000000388
+t1331334238
+s904
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/CommentList.h
+c000000004F5FA2A70000000000000372
+t1331667623
+s882
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app
+t1331842711
+s204
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app.dSYM
+t1331842711
+s102
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/Comments
+t1331842711
+s331328
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/Info.plist
+t1331334244
+s889
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/PkgInfo
+t1331334244
+s8
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/en.lproj/InfoPlist.strings
+t1331334247
+s42
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/en.lproj/MainStoryboard.storyboardc
+t1331751146
+s170
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Container.h
+c000000004F5A8C5E00000000000008E5
+t1331334238
+s2277
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Container2.h
+c000000004F5FA2E300000000000007D7
+t1331667683
+s2007
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Defines.h
+c000000004F60D62300000000000018D7
+t1331746339
+s6359
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/File.h
+c000000004F5A8C5E0000000000000721
+t1331334238
+s1825
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/File2.h
+c000000004F5FA2A7000000000000054D
+t1331667623
+s1357
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/MetaData.h
+c000000004F5A8C5E00000000000004BB
+t1331334238
+s1211
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Resource.h
+c000000004F5A8C5E0000000000000896
+t1331334238
+s2198
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/ResourceData.h
+c000000004F5A8C5E00000000000006F9
+t1331334238
+s1785
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/ResourceList.h
+c000000004F5A8C5E00000000000005E1
+t1331334238
+s1505
+
+N/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Service.h
+c000000004F5A8C5E0000000000002A0F
+t1331334238
+s10767
+
+NComments/Comments-Info.plist
+c000000004F5003D4000000000000050B
+t1330643924
+s1291
+
+CBuild AST from /Users/shreyassali/Projects/CommentsLearning/Comments/Comments/AppDelegate.m
+r0
+
+CBuild AST from /Users/shreyassali/Projects/CommentsLearning/Comments/Comments/ViewController.m
+r0
+
+CBuild AST from /Users/shreyassali/Projects/CommentsLearning/Comments/Comments/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies9d67a8278612b541^3fc6a8278612b541^---0#1#0#--18"Check dependencies36"08F61003-94BB-45F7-A226-C379D5EFE742-
+
+CCompileC DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Objects-normal/i386/AppDelegate.o /Users/shreyassali/Projects/CommentsLearning/Comments/Comments/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s353027046.609771
+e353027046.846088
+r1
+xCompileC
+xDerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Objects-normal/i386/AppDelegate.o
+x/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/shreyassali/Projects/CommentsLearning/Comments/Comments/AppDelegate.m3d479ce6c30ab541^0799d8e6c30ab541^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/AppDelegate.m0000000000000000^3489"CompileC DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Objects-normal/i386/AppDelegate.o Comments/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/shreyassali/Projects/CommentsLearning/Comments    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Comments-generated-files.hmap -I/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Comments-own-target-headers.hmap -I/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Comments-all-target-headers.hmap -iquote /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Comments-project-headers.hmap -iquotecsp-obj-c-sdk/csplib/build -iquote/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator -I/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/include -I/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/DerivedSources/i386 -I/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/DerivedSources -F/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator -include /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/PrecompiledHeaders/Comments-Prefix-aayqwmhzkqbojkfhdctxfyibxqme/Comments-Prefix.pch -MMD -MT dependencies -MF /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Objects-normal/i386/AppDelegate.d -c /Users/shreyassali/Projects/CommentsLearning/Comments/Comments/AppDelegate.m -o /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Objects-normal/i386/AppDelegate.o36"05DC8BF0-AC62-474C-8F1A-CBE3C7BC0371-
+
+CCompileC DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Objects-normal/i386/ViewController.o /Users/shreyassali/Projects/CommentsLearning/Comments/Comments/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s353534374.147866
+e353534374.396982
+r1
+xCompileC
+xDerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Objects-normal/i386/ViewController.o
+x/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/ViewController.m:71:58:{71:58-71:62}: warning: sending 'ViewController *const __strong' to parameter of incompatible type 'id<ServiceDelegate>' [3]
+o     [service put_resourceAsynchronously: mdata delegate: self startImmediately: YES];    
+o                                                          ^~~~
+o/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Service.h:222:39: note: passing argument to parameter 'serviceDelegate' here [3]
+o                                                  delegate: (id<ServiceDelegate>)serviceDelegate
+o                                                                                 ^
+o/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/ViewController.m:88:94:{88:94-88:98}: warning: sending 'ViewController *const __strong' to parameter of incompatible type 'id<ServiceDelegate>' [3]
+o     [service post_resourceAsynchronously:commentdata destinationUrl:commentdata.uri delegate:self startImmediately:YES];
+o                                                                                              ^~~~
+o/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Service.h:211:40: note: passing argument to parameter 'serviceDelegate' here [3]
+o                                                   delegate: (id<ServiceDelegate>)serviceDelegate
+o                                                                                  ^
+o2 warnings generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/shreyassali/Projects/CommentsLearning/Comments/Comments/ViewController.m6f2a26a68112b541^ca4e67a68112b541^-1581"/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/ViewController.m:71:58:{71:58-71:62}: warning: sending 'ViewController *const __strong' to parameter of incompatible type 'id<ServiceDelegate>' [3]     [service put_resourceAsynchronously: mdata delegate: self startImmediately: YES];                                                              ^~~~/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Service.h:222:39: note: passing argument to parameter 'serviceDelegate' here [3]                                                  delegate: (id<ServiceDelegate>)serviceDelegate                                                                                 ^/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/ViewController.m:88:94:{88:94-88:98}: warning: sending 'ViewController *const __strong' to parameter of incompatible type 'id<ServiceDelegate>' [3]     [service post_resourceAsynchronously:commentdata destinationUrl:commentdata.uri delegate:self startImmediately:YES];                                                                                              ^~~~/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Service.h:211:40: note: passing argument to parameter 'serviceDelegate' here [3]                                                   delegate: (id<ServiceDelegate>)serviceDelegate                                                                                  ^2 warnings generated.2(21%IDEActivityLogMessage2@96"Sending 'ViewController *const __strong' to parameter of incompatible type 'id<ServiceDelegate>'-353534374#0#211#1(2@52"Passing argument to parameter 'serviceDelegate' here-353534374#365#200#-0#-23%DVTTextDocumentLocation3@144"file://localhost/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Service.h0000000000000000^221#38#221#38#18446744073709551615#0#14"Semantic Issue--1#-3@95"file://localhost/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/ViewController.m0000000000000000^70#57#70#57#18446744073709551615#0#14"Semantic Issue1(3@95"file://localhost/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/ViewController.m0000000000000000^70#57#70#61#18446744073709551615#0#-2@96"Sending 'ViewController *const __strong' to parameter of incompatible type 'id<ServiceDelegate>'-353534374#745#211#1(2@52"Passing argument to parameter 'serviceDelegate' here-353534374#1177#200#-0#-3@144"file://localhost/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Service.h0000000000000000^210#39#210#39#18446744073709551615#0#14"Semantic Issue--1#-3@95"file://localhost/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/ViewController.m0000000000000000^87#93#87#93#18446744073709551615#0#14"Semantic Issue1(3@95"file://localhost/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/ViewController.m0000000000000000^87#93#87#97#18446744073709551615#0#-0#0#0#-19%DVTDocumentLocation4@95"file://localhost/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/ViewController.m0000000000000000^3504"CompileC DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Objects-normal/i386/ViewController.o Comments/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/shreyassali/Projects/CommentsLearning/Comments    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Comments-generated-files.hmap -I/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Comments-own-target-headers.hmap -I/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Comments-all-target-headers.hmap -iquote /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Comments-project-headers.hmap -iquotecsp-obj-c-sdk/csplib/build -iquote/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator -I/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/include -I/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/DerivedSources/i386 -I/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/DerivedSources -F/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator -include /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/PrecompiledHeaders/Comments-Prefix-aayqwmhzkqbojkfhdctxfyibxqme/Comments-Prefix.pch -MMD -MT dependencies -MF /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Objects-normal/i386/ViewController.d -c /Users/shreyassali/Projects/CommentsLearning/Comments/Comments/ViewController.m -o /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Objects-normal/i386/ViewController.o36"A162F736-C261-4ABF-BC93-01C957A5DD44-
+
+CCompileC DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Objects-normal/i386/main.o /Users/shreyassali/Projects/CommentsLearning/Comments/Comments/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s353027046.609769
+e353027046.810613
+r1
+xCompileC
+xDerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Objects-normal/i386/main.o
+x/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/shreyassali/Projects/CommentsLearning/Comments/Comments/main.m41469ce6c30ab541^f296cfe6c30ab541^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/main.m0000000000000000^3454"CompileC DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Objects-normal/i386/main.o Comments/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/shreyassali/Projects/CommentsLearning/Comments    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Comments-generated-files.hmap -I/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Comments-own-target-headers.hmap -I/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Comments-all-target-headers.hmap -iquote /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Comments-project-headers.hmap -iquotecsp-obj-c-sdk/csplib/build -iquote/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator -I/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/include -I/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/DerivedSources/i386 -I/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/DerivedSources -F/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator -include /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/PrecompiledHeaders/Comments-Prefix-aayqwmhzkqbojkfhdctxfyibxqme/Comments-Prefix.pch -MMD -MT dependencies -MF /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Objects-normal/i386/main.d -c /Users/shreyassali/Projects/CommentsLearning/Comments/Comments/main.m -o /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Objects-normal/i386/main.o36"958F1C04-2579-4588-A030-BDADDFF83B5E-
+
+CCompileStoryboard /Users/shreyassali/Projects/CommentsLearning/Comments/Comments/en.lproj/MainStoryboard.storyboard
+s353443938.014188
+e353443946.889762
+r1
+xCompileStoryboard
+x/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/en.lproj/MainStoryboard.storyboard
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"CompileStoryboard Comments/en.lproj/MainStoryboard.storyboardcfbd03622011b541^90d7e36a2011b541^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/en.lproj/MainStoryboard.storyboard0000000000000000^824"CompileStoryboard Comments/en.lproj/MainStoryboard.storyboard    cd /Users/shreyassali/Projects/CommentsLearning/Comments    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/en.lproj/MainStoryboard.storyboardc /Users/shreyassali/Projects/CommentsLearning/Comments/Comments/en.lproj/MainStoryboard.storyboard --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"3AA34953-1F4A-474E-8E84-8C9690472EF7-
+
+CCopyStringsFile /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/en.lproj/InfoPlist.strings Comments/en.lproj/InfoPlist.strings
+s353027047.559713
+e353027047.624408
+r1
+xCopyStringsFile
+x/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/en.lproj/InfoPlist.strings
+xComments/en.lproj/InfoPlist.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy Comments/en.lproj/InfoPlist.strings91638fe7c30ab541^8ae49fe7c30ab541^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/en.lproj/InfoPlist.strings0000000000000000^619"CopyStringsFile DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/en.lproj/InfoPlist.strings Comments/en.lproj/InfoPlist.strings    cd /Users/shreyassali/Projects/CommentsLearning/Comments    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/en.lproj -- Comments/en.lproj/InfoPlist.strings36"70C6B2E9-5405-472C-A32D-22C897B05195-
+
+CGenerateDSYMFile /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app.dSYM /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/Comments
+s353535511.676652
+e353535511.730969
+r1
+xGenerateDSYMFile
+x/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app.dSYM
+x/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/Comments
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection147"Generating /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app.dSYMb14ead178612b541^6420bb178612b541^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app.dSYM/0000000000000000^692"GenerateDSYMFile DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app.dSYM DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/Comments    cd /Users/shreyassali/Projects/CommentsLearning/Comments    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/Comments -o /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app.dSYM36"28B9559E-98B6-4B71-9A75-EBA1E3539B21-
+
+CLd /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/Comments normal i386
+s353535510.824582
+e353535511.670212
+r1
+xLd
+x/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/Comments
+xnormal
+xi386
+old: warning: directory not found for option '-Lcsp-obj-c-sdk/csplib/build'
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"Link /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/Comments0532d3168612b541^1493ab178612b541^-75"ld: warning: directory not found for option '-Lcsp-obj-c-sdk/csplib/build'1(21%IDEActivityLogMessage2@61"Directory not found for option '-Lcsp-obj-c-sdk/csplib/build'-353535510#0#75#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--0#0#0#--1475"Ld DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/Comments normal i386    cd /Users/shreyassali/Projects/CommentsLearning/Comments    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator -Lcsp-obj-c-sdk/csplib/build -L/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphoneos -F/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator -filelist /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Objects-normal/i386/Comments.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -lcsplib -lxml2.2 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/Comments36"A4E5C179-1CD5-49AF-9B5B-E178D5F27B90-
+
+CProcessInfoPlistFile /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/Info.plist Comments/Comments-Info.plist
+s353027044.911113
+e353027044.915540
+r1
+xProcessInfoPlistFile
+x/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/Info.plist
+xComments/Comments-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Process Comments/Comments-Info.plist315ce9e4c30ab541^82acebe4c30ab541^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/Comments-Info.plist0000000000000000^749"ProcessInfoPlistFile DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/Info.plist Comments/Comments-Info.plist    cd /Users/shreyassali/Projects/CommentsLearning/Comments    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Comments/Comments-Info.plist -genpkginfo /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app/Info.plist36"67992593-3829-4871-9A25-2A966B4EAF9E-
+
+CProcessPCH /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/PrecompiledHeaders/Comments-Prefix-aayqwmhzkqbojkfhdctxfyibxqme/Comments-Prefix.pch.pth Comments/Comments-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s353027044.923306
+e353027046.602231
+r1
+xProcessPCH
+x/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/PrecompiledHeaders/Comments-Prefix-aayqwmhzkqbojkfhdctxfyibxqme/Comments-Prefix.pch.pth
+xComments/Comments-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Comments/Comments-Prefix.pch8787ece4c30ab541^6b2b9ae6c30ab541^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/shreyassali/Projects/CommentsLearning/Comments/Comments/Comments-Prefix.pch0000000000000000^3291"ProcessPCH DerivedData/CommentsTesting/Build/PrecompiledHeaders/Comments-Prefix-aayqwmhzkqbojkfhdctxfyibxqme/Comments-Prefix.pch.pth Comments/Comments-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/shreyassali/Projects/CommentsLearning/Comments    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Comments-generated-files.hmap -I/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Comments-own-target-headers.hmap -I/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Comments-all-target-headers.hmap -iquote /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/Comments-project-headers.hmap -iquotecsp-obj-c-sdk/csplib/build -iquote/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator -I/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/include -I/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/DerivedSources/i386 -I/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Intermediates/Comments.build/Debug-iphonesimulator/Comments.build/DerivedSources -F/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator -c /Users/shreyassali/Projects/CommentsLearning/Comments/Comments/Comments-Prefix.pch -o /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/PrecompiledHeaders/Comments-Prefix-aayqwmhzkqbojkfhdctxfyibxqme/Comments-Prefix.pch.pth -MMD -MT dependencies -MF /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/PrecompiledHeaders/Comments-Prefix-aayqwmhzkqbojkfhdctxfyibxqme/Comments-Prefix.pch.d36"62FFCC3B-B26F-4F99-B2F3-3B7EB826D928-
+
+CProcessPCH /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Index/PrecompiledHeaders/Comments-Prefix-eygnrbsfguovodfsemgwclhzsgib_ast/Comments-Prefix.pch.pth Comments/Comments-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app
+s353535511.747263
+e353535511.754282
+r1
+xTouch
+x/Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Touch /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app5f5fbf178612b541^f817c1178612b541^---0#0#0#--430"Touch DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app    cd /Users/shreyassali/Projects/CommentsLearning/Comments    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/shreyassali/Projects/CommentsLearning/Comments/DerivedData/CommentsTesting/Build/Products/Debug-iphonesimulator/Comments.app36"2097DB59-E81E-495C-A011-EDFF128A72EA-
+

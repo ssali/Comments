@@ -11,10 +11,12 @@
 		6058380415003B54004804BD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6058380315003B54004804BD /* Foundation.framework */; };
 		6058380615003B54004804BD /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6058380515003B54004804BD /* CoreGraphics.framework */; };
 		6058380C15003B54004804BD /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6058380A15003B54004804BD /* InfoPlist.strings */; };
-		6058380E15003B54004804BD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6058380D15003B54004804BD /* main.m */; };
-		6058381215003B54004804BD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6058381115003B54004804BD /* AppDelegate.m */; };
 		6058381515003B54004804BD /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6058381315003B54004804BD /* MainStoryboard.storyboard */; };
-		6058381815003B54004804BD /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6058381715003B54004804BD /* ViewController.m */; };
+		605D6A2D15090E07005A4FA0 /* libcsplib.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 605D6A2C15090E07005A4FA0 /* libcsplib.a */; };
+		6083939E1507D0820045B154 /* libxml2.2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 6083939D1507D0820045B154 /* libxml2.2.dylib */; };
+		60DE0A5715055336008C0C2F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6058381715003B54004804BD /* ViewController.m */; };
+		60DE0A581505533C008C0C2F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6058381115003B54004804BD /* AppDelegate.m */; };
+		60E3AC831505797A001C6F85 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6058380D15003B54004804BD /* main.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,15 +24,23 @@
 		6058380115003B54004804BD /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		6058380315003B54004804BD /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6058380515003B54004804BD /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		6058380915003B54004804BD /* Comments-Info.plist */ = {isa = PBXFileReference; path = "Comments-Info.plist"; sourceTree = "<group>"; };
+		6058380915003B54004804BD /* Comments-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Comments-Info.plist"; sourceTree = "<group>"; };
 		6058380B15003B54004804BD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6058380D15003B54004804BD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		6058380F15003B54004804BD /* Comments-Prefix.pch */ = {isa = PBXFileReference; path = "Comments-Prefix.pch"; sourceTree = "<group>"; };
-		6058381015003B54004804BD /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		6058380F15003B54004804BD /* Comments-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Comments-Prefix.pch"; sourceTree = "<group>"; };
+		6058381015003B54004804BD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		6058381115003B54004804BD /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		6058381415003B54004804BD /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		6058381615003B54004804BD /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		6058381615003B54004804BD /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		6058381715003B54004804BD /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		6058384915016B67004804BD /* Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
+		605D6A2C15090E07005A4FA0 /* libcsplib.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libcsplib.a; path = "DerivedData/CommentsTesting/Build/Products/Debug-iphoneos/libcsplib.a"; sourceTree = "<group>"; };
+		6083939D1507D0820045B154 /* libxml2.2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.2.dylib; path = usr/lib/libxml2.2.dylib; sourceTree = SDKROOT; };
+		60E3AC8115056D1A001C6F85 /* libiconv.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libiconv.dylib; path = usr/lib/libiconv.dylib; sourceTree = SDKROOT; };
+		60E3AC8415057D54001C6F85 /* BasicAuthCredentials.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = BasicAuthCredentials.m; path = "csp-obj-c-sdk/csplib/Classes/Mezeo/Service/BasicAuthCredentials.m"; sourceTree = "<group>"; };
+		60E3AC8515057D54001C6F85 /* Service.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = Service.m; path = "csp-obj-c-sdk/csplib/Classes/Mezeo/Service/Service.m"; sourceTree = "<group>"; };
+		60E3AC8815057DAA001C6F85 /* ResourceFactory.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = ResourceFactory.m; path = "csp-obj-c-sdk/csplib/Classes/Mezeo/Resources/Factory/ResourceFactory.m"; sourceTree = "<group>"; };
+		60E3AC8915057DAA001C6F85 /* ResRepresentation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = ResRepresentation.m; path = "csp-obj-c-sdk/csplib/Classes/Mezeo/Resources/Factory/ResRepresentation.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +48,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				605D6A2D15090E07005A4FA0 /* libcsplib.a in Frameworks */,
+				6083939E1507D0820045B154 /* libxml2.2.dylib in Frameworks */,
 				6058380215003B54004804BD /* UIKit.framework in Frameworks */,
 				6058380415003B54004804BD /* Foundation.framework in Frameworks */,
 				6058380615003B54004804BD /* CoreGraphics.framework in Frameworks */,
@@ -50,6 +62,13 @@
 		605837F215003B54004804BD = {
 			isa = PBXGroup;
 			children = (
+				605D6A2C15090E07005A4FA0 /* libcsplib.a */,
+				6083939D1507D0820045B154 /* libxml2.2.dylib */,
+				60E3AC8815057DAA001C6F85 /* ResourceFactory.m */,
+				60E3AC8915057DAA001C6F85 /* ResRepresentation.m */,
+				60E3AC8415057D54001C6F85 /* BasicAuthCredentials.m */,
+				60E3AC8515057D54001C6F85 /* Service.m */,
+				60E3AC8115056D1A001C6F85 /* libiconv.dylib */,
 				6058380715003B54004804BD /* Comments */,
 				6058380015003B54004804BD /* Frameworks */,
 				605837FE15003B54004804BD /* Products */,
@@ -77,6 +96,7 @@
 		6058380715003B54004804BD /* Comments */ = {
 			isa = PBXGroup;
 			children = (
+				6058384915016B67004804BD /* Header.h */,
 				6058381015003B54004804BD /* AppDelegate.h */,
 				6058381115003B54004804BD /* AppDelegate.m */,
 				6058381315003B54004804BD /* MainStoryboard.storyboard */,
@@ -160,9 +180,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6058380E15003B54004804BD /* main.m in Sources */,
-				6058381215003B54004804BD /* AppDelegate.m in Sources */,
-				6058381815003B54004804BD /* ViewController.m in Sources */,
+				60E3AC831505797A001C6F85 /* main.m in Sources */,
+				60DE0A581505533C008C0C2F /* AppDelegate.m in Sources */,
+				60DE0A5715055336008C0C2F /* ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -236,10 +256,27 @@
 		6058381C15003B54004804BD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Comments/Comments-Prefix.pch";
+				HEADER_SEARCH_PATHS = "";
 				INFOPLIST_FILE = "Comments/Comments-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"csp-obj-c-sdk/csplib/build/**",
+					"\"$(SRCROOT)/DerivedData/CommentsTesting/Build/Products/Debug-iphoneos\"",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(CONTENTS_FOLDER_PATH)/Headers  ";
+				SCAN_ALL_SOURCE_FILES_FOR_INCLUDES = NO;
+				SKIP_INSTALL = NO;
+				STRIPFLAGS = "";
+				SYMROOT = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				USER_HEADER_SEARCH_PATHS = "csp-obj-c-sdk/csplib/build/** $(BUILT_PRODUCTS_DIR)";
+				VALIDATE_PRODUCT = YES;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -247,10 +284,28 @@
 		6058381D15003B54004804BD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Comments/Comments-Prefix.pch";
+				HEADER_SEARCH_PATHS = "";
 				INFOPLIST_FILE = "Comments/Comments-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"csp-obj-c-sdk/csplib/build/**",
+					"\"$(SRCROOT)/DerivedData/CommentsTesting/Build/Products/Debug-iphoneos\"",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				PUBLIC_HEADERS_FOLDER_PATH = "$(CONTENTS_FOLDER_PATH)/Headers  ";
+				SCAN_ALL_SOURCE_FILES_FOR_INCLUDES = NO;
+				SKIP_INSTALL = NO;
+				STRIPFLAGS = "";
+				SYMROOT = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				USER_HEADER_SEARCH_PATHS = "csp-obj-c-sdk/csplib/build/** $(BUILT_PRODUCTS_DIR)";
+				VALIDATE_PRODUCT = NO;
+				"VALID_ARCHS[sdk=iphoneos*]" = i386;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -274,6 +329,7 @@
 				6058381D15003B54004804BD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
